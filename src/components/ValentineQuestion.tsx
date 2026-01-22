@@ -226,7 +226,7 @@ const ValentineQuestion = () => {
               transition={{ delay: 0.3 }}
               className="text-4xl md:text-6xl font-display font-bold text-romantic mb-4"
             >
-              YAY! I Love You! 🥰
+              YAY! I Love You! 🌹🔐
             </motion.h2>
             
             <motion.p
@@ -288,3 +288,4 @@ const ValentineQuestion = () => {
 };
 
 export default ValentineQuestion;
+
