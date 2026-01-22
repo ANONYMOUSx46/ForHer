@@ -137,7 +137,7 @@ const Index = () => {
               <Heart className="w-8 h-8 text-primary" fill="currentColor" />
             </motion.div>
             <p className="text-foreground/50 font-body text-sm">
-              Made with all my love, just for you 💖
+              Made be meeee Your BoyFriend with alll my love, just for you 💖
             </p>
             <p className="text-foreground/30 font-body text-xs">
               Happy Valentine's Day 2026
@@ -150,3 +150,4 @@ const Index = () => {
 };
 
 export default Index;
+
